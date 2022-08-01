@@ -1,0 +1,13 @@
+{
+  "name": "weather-journal-app_Serag",
+  "version": "1.0.0",
+  "description": "## Overview This project use API of website openweathermap tto get data based on its ZipCode and saves it to server's end Point  using javascrpit then take recent data from server and update UI using DOM in javascript.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
